@@ -25,8 +25,8 @@ If you would like to run the app locally, use the following instructions
 To set up the environment, run `conda env create -f cjmjhu.yml`. You may also 
 pip install each of the specified libraries if not using conda. 
 2. Save all files in the cmcginn5 folder to a location you can access with the command line.
-2. On the command line, navigate to the root project folder (cmcginn5).
-3. Run the command: streamlit run cmcginn5.py
+3. On the command line, navigate to the root project folder (cmcginn5).
+4. Run the command: streamlit run cmcginn5.py
 
 ### USING THE APP:
 
