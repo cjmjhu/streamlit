@@ -45,7 +45,7 @@ with about_exp:
     about_exp.markdown('**Author:** C.J. McGinnis<br/>'
                        +'**Last Update:** 19 February 2023', True)
    
-    about_exp.image("jhu-logo.png", width=200)
+    about_exp.image("https://github.com/cjmjhu/streamlit/blob/main/a_star_search/cmcginn5/jhu-logo.png?raw=true", width=200)
     about_exp.markdown('Whiting School of Engineering<br/>'
                    + 'Johns Hopkins University<br/> Baltimore, MD, USA<br/>', 
                    True)
