@@ -1,14 +1,12 @@
 
 ---
 
-**EN.605.645** - Module 4 Programming Assignment  
 **Author:** Christofer McGinnis  
 **Email:** cmcginn5@jh.edu  
-**Due:** February 19, 2023  
 
 ---  
 
-All required files are saved in the folder: cmcginn5
+All required files are saved in the folder: https://github.com/cjmjhu/streamlit/tree/main/a_star_search/cmcginn5
 
 ### LIST OF FILES 
 
@@ -18,11 +16,15 @@ All required files are saved in the folder: cmcginn5
 ***jhu-logo.png***: an image used for display in the app  
 
 ### INSTRUCTIONS FOR RUNNING:
+This app is deployed on Streamlit at: https://cjmjhu-streamlit-a-star-searchcmcginn5cmcginn5-sjul5h.streamlit.app/ 
 
-Use the en605645 environment as provided by the course materials for
-EN.605.645.
+If you would like to run the app locally, use the following instructions
 
-1. Unzip the cmcginn5.zip file to a location you can access with the command line.
+
+1. Use the cjmjhu environment as provided by the https://github.com/cjmjhu/streamlit/tree/main/environments/cjmjhu.yml file. 
+To set up the environment, run `conda env create -f cjmjhu.yml`. You may also 
+pip install each of the specified libraries if not using conda. 
+2. Save all files in the cmcginn5 folder to a location you can access with the command line.
 2. On the command line, navigate to the root project folder (cmcginn5).
 3. Run the command: streamlit run cmcginn5.py
 
